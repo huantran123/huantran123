@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and UX/UI Designer
 --------------------------------
 
-As a full-stack developer, I have a wide range of skills and experiencewith both front-end and back-end development, as well as experience with a variety of programming languages and web design. I am a quick learner and have a knack for problem-solving, which makes me an asset on any development team.
+As a full-stack developer, I have a wide range of skills and experience with both front-end and back-end development, as well as experience with a variety of programming languages and web design. I am a quick learner and have a knack for problem-solving, which makes me an asset on any development team.
 
 * 🌍  I'm based in San Jose, CA
 * ✉️  You can contact me at [huanductran98@gmail.com](mailto:huanductran98@gmail.com)
