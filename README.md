@@ -8,7 +8,7 @@ As a full-stack developer, I have a wide range of skills and experience with bot
 
 * 🌍  I'm based in San Jose, CA
 * ✉️  You can contact me at [huanductran98@gmail.com](mailto:huanductran98@gmail.com)
-* 🚀  I'm currently working on [EcoDrive](http://ecodrive.life)
+* 🚀  I'm currently working on [EcoDrive](https://github.com/rpp2205-boc-quartzite/eco_drive)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love Pokemon...pika pika
